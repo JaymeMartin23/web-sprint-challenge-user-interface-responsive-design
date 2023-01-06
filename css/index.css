@@ -61,18 +61,22 @@ html {
 body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.5;
+    color: rgb(225,239,230);
 }
 
 h1, h2, h3, h4, h5, h6, p, a, i {
     text-decoration: none;
+    
 }
 
 h1 {
     font-size: 7.5rem;
+    color: rgb(225,239,230);
 }
 
 h2 {
     font-size: 6rem;
+    color: rgb(225,239,230);
 }
 
 h3 {
